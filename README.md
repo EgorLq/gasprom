@@ -14,3 +14,5 @@
 
 - кэширование 
 
+- добавлен докер , запуск "doker run -p7777:8080 gasprom-sendel:latest
+
